@@ -51,14 +51,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
-
-## GitHub Stats
-
+###
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MannanKhan-sys&show_icons=true&theme=dracula" height="150" />
+<a href="https://abdulmannankhan.vercel.app/" target="_blank">
+  <img src="https://github.com/MannanKhan-sys/MannanKhan-sys/assets/PORTFOLIO_SCREENSHOT.png" width="900"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannanKhan-sys&layout=compact&theme=dracula" height="150" />
+<h3>🚀 My Portfolio</h3>
+
+<a href="https://abdulmannankhan.vercel.app/">
+  Visit Portfolio
+</a>
 
 </div>
 
