@@ -52,17 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
-<div align="center">
-
-
-<div align="center">
-
-<a href="https://abdulmannankhan.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
 
 ###
 <div align="center">
