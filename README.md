@@ -56,7 +56,7 @@
 ###
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmannankhan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmannankhan.vercel.app/)
 
 </div>
 <div align="left">
