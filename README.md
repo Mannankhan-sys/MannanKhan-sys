@@ -54,11 +54,9 @@
 
 <div align="center">
 
-<a href="https://abdulmannankhan.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Mannankhan-sys/AbdulMannan/refs/heads/main/assets/Screenshot%202026-06-04%20093859.png" width="900"/>
-</a>
 
-<h3>🚀 My Portfolio</h3>
+
+<h3> My Portfolio</h3>
 
 <a href="https://abdulmannankhan.vercel.app/">
   Visit Portfolio
