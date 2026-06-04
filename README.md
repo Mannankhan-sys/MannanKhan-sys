@@ -55,7 +55,7 @@
 <div align="center">
 
 <a href="https://abdulmannankhan.vercel.app/" target="_blank">
-  <img src="https://github.com/MannanKhan-sys/MannanKhan-sys/assets/PORTFOLIO_SCREENSHOT.png" width="900"/>
+  <img src="https://github.com/MannanKhan-sys/AbdulMannan/assets/Screenshot 2026-06-04 093859.png" width="900"/>
 </a>
 
 <h3>🚀 My Portfolio</h3>
