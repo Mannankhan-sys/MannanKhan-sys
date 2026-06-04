@@ -55,17 +55,21 @@
 <div align="center">
 
 
+<div align="center">
 
-<h3> My Portfolio</h3>
-
-<a href="https://abdulmannankhan.vercel.app/">
-  Visit Portfolio
+<a href="https://abdulmannankhan.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
 
-###
 
+###
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulmannankhan.vercel.app/)
+
+</div>
 <div align="left">
   <a href="https://linkedin.com/in/muhammad-abdul-mannan-a86b232a8" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
